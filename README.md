@@ -43,9 +43,3 @@ Weak correlation between numerical variables suggests external factors influence
 Missing or incomplete data in some fields
 Limited environmental variables (e.g., water conditions)
 Possible reporting bias across regions
-
-🚀 Future Improvements
-Build interactive dashboards (Plotly / Power BI)
-Apply machine learning models for prediction
-Include environmental and seasonal data
-Perform region-specific deep analysis
